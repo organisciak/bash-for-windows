@@ -16,7 +16,7 @@ Ian Milligan and James Baker have a beginner resource on Bash and command line i
 
 ## Check Your Windows Version
 
-Bash for Windows is only availabe in the newest version of Windows 10, as of August 2016, so outdated systems will not support it. To check if your system can run it, open Start Menu and type `winver` into search, then run the command that shows up at the top.
+Bash for Windows is only available in the newest version of Windows 10, as of August 2016, so outdated systems will not support it. To check if your system can run it, open Start Menu and type `winver` into search, then run the command that shows up at the top.
 
 ![Command for checking Windows version.](winver-small.png)
 
